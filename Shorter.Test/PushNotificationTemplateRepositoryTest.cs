@@ -13,7 +13,7 @@ namespace Shorter.Test
         [SetUp]
         public void Setup()
         {
-            connection = new SqlConnection("Data Source=sql-dev-elos-el.database.windows.net;Initial Catalog=sqldb-dev-elos-el;User Id=evupapp_dev;Password=4mGMpeQOZ#;Max Pool Size=32767;Pooling=true");
+            connection = new SqlConnection("");
         }
 
         [Test]

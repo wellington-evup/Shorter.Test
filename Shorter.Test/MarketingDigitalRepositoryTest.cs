@@ -1,8 +1,6 @@
 ﻿using NUnit.Framework;
 using Shorter.Core;
 using System;
-using System.Data;
-using System.Data.SqlClient;
 
 namespace Shorter.Test
 {
